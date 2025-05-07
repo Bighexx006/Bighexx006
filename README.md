@@ -19,7 +19,7 @@
 
 ---
 
-## 🧰 Tools & Skills
+##  Tools & Skills
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-plain.svg" height="40" alt="Excel"/>
@@ -31,37 +31,36 @@
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 📈 Excel Sales Dashboard
+### Excel Sales Dashboard
 A dynamic dashboard that visualizes sales performance across multiple regions and products.
 
 ![Excel Dashboard](https://your-image-link.com/excel-dashboard-preview.png)
 
-### 🧹 Excel Data Cleaning Toolkit
+###  Excel Data Cleaning Toolkit
 An Excel template using Power Query and macros for rapid data cleaning tasks.
 
 ![Data Cleaning](https://your-image-link.com/data-cleaning-preview.png)
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📧 Email: yourname@example.com
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-
+- [LinkedIn](https://www.linkedin.com/in/https://github.com/Bighexx006)
+-  Email: abakahezekiah@gmail.com
+-  Portfolio: [yourwebsite.com](https://https://github.com/Bighexx006
 ---
 
 - *Thank you for visiting my GitHub profile! Let’s unlock the power of data together.*  
 ## Hi there 
 
 <!--
-**Bighexx006/Bighexx006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bighexx006/Bighexx006** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
--  I’m currently working on ...
+-  I’m currently working on Ms excel
 -  I’m currently learning ...
 -  I’m looking to collaborate on ...
 -  I’m looking for help with ...
