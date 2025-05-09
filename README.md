@@ -1,22 +1,28 @@
 # Restaurant Revenue Prediction
 
 ## Introduction
--Restaurant Revenue Prediction focuses on developing a machine learning model to predict restaurant revenue based on various features as location, type, operational year, and other relevant bisiness factors. Using historical data and predictive analytics, this model aim to help restaurant owners and stakeholders make informed financial decisions, optimize operations, and plan for future growth. 
+Restaurant Revenue Prediction focuses on developing a machine learning model to predict restaurant revenue based on various features as location, type, operational year, and other relevant bisiness factors. Using historical data and predictive analytics, this model aim to help restaurant owners and stakeholders make informed financial decisions, optimize operations, and plan for future growth. 
 
 ## Research Question
--What are the key factors that influence restaurant revenue?
--How does the type and price of a restaurant affect its earning?
--What is the restaurant monthly revenue?
+-  What are the key factors that influence restaurant revenue?
+- How does the numbers of customers and menu price of a restaurant affect its earning?
+- How can revenue prediction help improve strategic decision making in restaurant management??
 
 ## Analysis and Findings
 
-## Question A: What are the key factors that influence restaurant revenue?
-Method: Menu Price and Marketing Spend
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analytics-Excel-blue?style=flat-square&logo=microsoft-excel" alt="Excel Badge"/>
-  <img src="https://img.shields.io/badge/Reports-Dashboards-green?style=flat-square&logo=tableau"/>
-  <img src="https://img.shields.io/badge/Visualization-Creator-orange?style=flat-square&logo=powerbi"/>
-</p>
+## Question A: What are the key factors that influences restaurant revenue?
+- Method: Regression and Correlation Analysis.
+- Findings: It shows that the most important factors affecting restaurant revenue are location, restaurant type, years in business, menu prices and marketing spend.
+  
+## Question B: How does the type and price of a restaurant affects its earning?
+- Method: Correlation and Regression Analysis.
+- Findigs: Both more customers and higher menu prices can increase revenue. However, very high prices may reduce the number of customers.
+
+## Question C: How can revenue prediction help improve strategic decision making in restaurany management?
+- Method: Linear Regression and Random Forest.
+- Findings: Revenue prediction helps helps restaurant managers make better decisions about budgeting, marketing, staffing, and menu pricing. By forecasting future earnings, they can plan more effectively, reduce financial risks, and focus on areas that drive growth.
+
+
 
 ---
 
