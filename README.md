@@ -1,8 +1,17 @@
-<!-- GitHub Profile README -->
+# Restaurt Revenue Prediction
 
-<h1 align="center">Hi , I'm [Hezekiah]</h1>
-<h3 align="center">Data Analyst | Excel Enthusiast | Insights Explorer</h3>
+## Introduction
+Restaurant Revenue Prediction focuses on developing a machine learning model to predict restaurant revenue based on various features as location, type, operational year, and other relevant bisiness factors. Using historical data and predictive analytics, this model aim to help restaurant owners and stakeholders make informed financial decisions, optimize operations, and plan for future growth. 
 
+## Research Question
+What are the key factors that influence restaurant revenue?
+How does the type and price of a restaurant affect its earning?
+What is the restaurant monthly revenue?
+
+## Analysis and Findings
+
+## Question A: What are the key factors that influence restaurant revenue?
+Method: Menu Price and Marketing Spend
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Analytics-Excel-blue?style=flat-square&logo=microsoft-excel" alt="Excel Badge"/>
   <img src="https://img.shields.io/badge/Reports-Dashboards-green?style=flat-square&logo=tableau"/>
