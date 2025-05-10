@@ -43,22 +43,33 @@ Restaurant Revenue Prediction focuses on developing a machine learning model to 
 - Findings: Revenue prediction helps helps restaurant managers make better decisions about budgeting, marketing, staffing, and menu pricing. By forecasting future earnings, they can plan more effectively, reduce financial risks, and focus on areas that drive growth.
 
 ## Correlation Analysis Summary
-	Menu_Price	Marketing_Spend
-Menu_Price	1	
-Marketing_Spend	0.016319321	1
+|	       |Menu_Price	|Marketing_Spend |
+|--------------|---------------|-----------------|
+|Menu_Price    |	1      |                 |
+|Marketing_Spend | 0.016319321 |	1        |
 
 ## Regression Analysis Summary
-Regression Statistics	
-Multiple R	0.015801102
-R Square	0.000249675
-Adjusted R Square	-0.000753084
-Standard Error	11.28125812
-Observations	999
- About Me
+## Model Stats
+|Metrics           | Values          |
+|------------------|-----------------|	
+|Multiple R        |	0.015801102  |
+|R Square          |	0.000249675  |
+|Adjusted R Square |	-0.000753084 |
+|Standard Error    |	11.28125812  |
+|Observations      |	999          |
 
-- 🔍 I’m a **data analyst** passionate about turning raw data into meaningful insights.
-- 📊 I specialize in **Microsoft Excel**, using advanced formulas, pivot tables, Power Query, and dashboards.
-- 💼 Currently exploring new ways to blend **automation, storytelling, and decision-making** using data.
+## ANOVA Table
+|Source     | df    | SS      | MS       | F         | Significance F |
+|-----------|-------|---------|----------|-----------|----------------|
+|Regression | 1     | 31.6879 | 31.6879  | 0.248988  | 0.617899       |
+|Residual   | 997   | 126885  | 127.2668 |           |                |
+|Total      | 998   | 126916.7|          |           |                |
+
+
+
+
+
+
 
 ---
 
