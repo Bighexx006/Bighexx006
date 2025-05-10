@@ -1,4 +1,5 @@
 # Restaurant Revenue Prediction
+![image](https://github.com/user-attachments/assets/9313cfc6-2b4c-4082-9555-b63d3a65e3c2)
 
 ## Introduction
 Restaurant Revenue Prediction focuses on developing a machine learning model to predict restaurant revenue based on various features as location, type, operational year, and other relevant bisiness factors. Using historical data and predictive analytics, this model aim to help restaurant owners and stakeholders make informed financial decisions, optimize operations, and plan for future growth. 
