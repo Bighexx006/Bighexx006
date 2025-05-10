@@ -24,7 +24,6 @@ Restaurant Revenue Prediction focuses on developing a machine learning model to 
 
 
 
----
 
  About Me
 
