@@ -48,7 +48,12 @@ Menu_Price	1
 Marketing_Spend	0.016319321	1
 
 ## Regression Analysis Summary
-
+Regression Statistics	
+Multiple R	0.015801102
+R Square	0.000249675
+Adjusted R Square	-0.000753084
+Standard Error	11.28125812
+Observations	999
  About Me
 
 - 🔍 I’m a **data analyst** passionate about turning raw data into meaningful insights.
