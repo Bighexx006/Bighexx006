@@ -9,6 +9,25 @@ Restaurant Revenue Prediction focuses on developing a machine learning model to 
 - How does the numbers of customers and menu price of a restaurant affect its earning?
 - How can revenue prediction help improve strategic decision making in restaurant management??
 
+## Tools Used
+## Microsoft Excel
+- Power Query for cleaning and transformation
+- Pivot Tables for summarizing insights
+- Scattered Plot ( x, y)
+- Regression and Correlation (Data Analysis Toolpak)
+  
+  ## Power BI
+  - Interactive dashboards
+  - Donut/Bar/Clustered Column/Funnel Charts
+ 
+    ## Process
+    1. Download dataset from Kaggle
+    2. Imported Power Query for cleaning and transformation
+    3. Data Cleaning included:
+       Text before delimeters
+       Empty rows and columns removed
+       Menu Price was formatted to Currency
+       
 ## Analysis and Findings
 
 ## Question A: What are the key factors that influences restaurant revenue?
@@ -23,6 +42,7 @@ Restaurant Revenue Prediction focuses on developing a machine learning model to 
 - Method: Linear Regression and Random Forest.
 - Findings: Revenue prediction helps helps restaurant managers make better decisions about budgeting, marketing, staffing, and menu pricing. By forecasting future earnings, they can plan more effectively, reduce financial risks, and focus on areas that drive growth.
 
+## Correlation Analysis Summary
 
 
 
