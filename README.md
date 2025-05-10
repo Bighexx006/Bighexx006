@@ -43,8 +43,11 @@ Restaurant Revenue Prediction focuses on developing a machine learning model to 
 - Findings: Revenue prediction helps helps restaurant managers make better decisions about budgeting, marketing, staffing, and menu pricing. By forecasting future earnings, they can plan more effectively, reduce financial risks, and focus on areas that drive growth.
 
 ## Correlation Analysis Summary
+	Menu_Price	Marketing_Spend
+Menu_Price	1	
+Marketing_Spend	0.016319321	1
 
-
+## Regression Analysis Summary
 
  About Me
 
