@@ -39,7 +39,7 @@ Restaurant Revenue Prediction focuses on developing a machine learning model to 
 - Findigs: Both more customers and higher menu prices can increase revenue. However, very high prices may reduce the number of customers.
 
 ## Question C: How can revenue prediction help improve strategic decision making in restaurany management?
-- Method: Linear Regression and Random Forest.
+- Method:  Regression 
 - Findings: Revenue prediction helps helps restaurant managers make better decisions about budgeting, marketing, staffing, and menu pricing. By forecasting future earnings, they can plan more effectively, reduce financial risks, and focus on areas that drive growth.
 
 ## Correlation Analysis Summary
@@ -80,7 +80,7 @@ Restaurant Revenue Prediction focuses on developing a machine learning model to 
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" alt="Power BI"/>
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" height="40" alt="Tableau"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" height="40" alt="Python"/>
-  <img src="https://img.icons8.com/ios-filled/50/google-sheets.png" height="40" alt="Google Sheets"/>
+
 </p>
 
 ---
