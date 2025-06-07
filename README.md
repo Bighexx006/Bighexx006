@@ -101,7 +101,7 @@ An Excel template using Power Query and macros for rapid data cleaning tasks.
 
 ##  Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/abakahezekiah)
+- [LinkedIn](https://www.linkedin.com/in/abakahezekiah
 -  Email: abakahezekiah@gmail.com
 -  Portfolio: [yourwebsite.com](https://https://github.com/Bighexx006
 ---
